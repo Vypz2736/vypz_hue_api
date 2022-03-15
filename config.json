@@ -1,0 +1,9 @@
+{
+  "hue_Bridge_IP": "<hue bridge ip>",
+  "username": "<username from hue bridge>",
+  "default_Bri": 190,
+  "default_Steps": 20,
+  "default_Blink_Count": 3,
+  "defaultSmoothOnOrOffDuration": "5m",
+  "defaultSmoothHueDuration": "10s"
+}

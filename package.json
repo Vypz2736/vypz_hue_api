@@ -1,0 +1,27 @@
+{
+  "name": "vypz_hue_api",
+  "version": "1.0.0",
+  "description": "api for philps hue lights",
+  "main": "index.js",
+  "dependencies": {
+    "follow-redirects": "^1.14.9",
+    "axios": "^0.26.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vypz2736/vypz_hue_api.git"
+  },
+  "keywords": [
+    "hue"
+  ],
+  "author": "13vypz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vypz2736/vypz_hue_api/issues"
+  },
+  "homepage": "https://github.com/Vypz2736/vypz_hue_api#readme"
+}
